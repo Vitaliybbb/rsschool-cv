@@ -1,4 +1,3 @@
-# rsschool-cv
 <html>
   <body>
     <p1>Buginov Vitaliy</p1>
